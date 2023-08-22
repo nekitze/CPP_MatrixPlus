@@ -7,4 +7,4 @@
 2. Do ```s21_matrix_oop.a``` to build a static library
 
 ## Overview
-The library provides a basic set of operations for working with matrices.
+The library provides a basic set of operations and operator overloads for working with matrices.
