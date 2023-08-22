@@ -1,6 +1,6 @@
 # CPP_MatrixPlus
 
-##Implementation of the s21_matrix_oop.h library.
+## Implementation of the s21_matrix_oop.h library.
 
 ## Build
 1. Go to ```src/``` folder
